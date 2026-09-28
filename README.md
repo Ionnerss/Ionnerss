@@ -1,4 +1,4 @@
-# Hi, I'm Catalin-Ion ðŸ‘‹
+# Hi, I'm Catalin
 
 ### Computer Engineering student building practical software systems
 
