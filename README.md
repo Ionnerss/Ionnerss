@@ -2,7 +2,7 @@
 
 > Software Engineering Student · Cybersecurity · Systems and Backend development
 
-`systems` · `web` · `cybersecurity`
+`systems` · `web` · `backend`
 
 **interests:** systems programming · web dev · blockchain dev
 
@@ -11,7 +11,6 @@
 **currently working on:**
 * **LegacyChain** · A Java blockchain learning project.
 * **CareerConnect** · A team-built job search and application tracking platform.
-* **Cybersecurity** · Building practical security skills through coursework, labs, and competitions.
 
 ```
                                                 |>>>
